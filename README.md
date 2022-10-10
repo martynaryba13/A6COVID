@@ -14,6 +14,7 @@ All data was sourced from the CDC.
 o COVID-19 Vaccinations in the United States [link](https://covid.cdc.gov/covid-data-tracker/?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcases-updates%2Fcases-in-us.html#vaccinations_vacc-people-fully-percent-total)
 o United States COVID-19 Cases, Deaths, and Laboratory Testing (NAATs) by State,Territory, and Jurisdiction [link](https://covid.cdc.gov/covid-data-tracker/#cases_totalcases)
 ## Tools
-Included in the respository are
-- Scripts used to analyze and wrangle the data
-- A Tableau presentation of the results
+This project used Tableau and the following Python libraries:
+- pandas
+- seaborn
+- matplotlib
