@@ -9,10 +9,10 @@ The following questions will be investigated:
 - How do vaccines effect hospitalizations?
 ## Data Source
 All data was sourced from the CDC.
-- United States COVID-19 Community Levels by County [link] (https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-Community-Levels-by-County/3nnm-4jni), [alternate link](https://covid.cdc.gov/covid-data-tracker/?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcases-updates%2Fcases-in-us.html#county-view?list_select_state=all_states&data-type=CommunityLevels)
+- United States COVID-19 Community Levels by County [link](https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-Community-Levels-by-County/3nnm-4jni), [alternate link](https://covid.cdc.gov/covid-data-tracker/?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcases-updates%2Fcases-in-us.html#county-view?list_select_state=all_states&data-type=CommunityLevels)
 - Possible additional data:
-o COVID-19 Vaccinations in the United States [link] (https://covid.cdc.gov/covid-data-tracker/?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcases-updates%2Fcases-in-us.html#vaccinations_vacc-people-fully-percent-total)
-o United States COVID-19 Cases, Deaths, and Laboratory Testing (NAATs) by State,Territory, and Jurisdiction [link] (https://covid.cdc.gov/covid-data-tracker/#cases_totalcases)
+o COVID-19 Vaccinations in the United States [link](https://covid.cdc.gov/covid-data-tracker/?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcases-updates%2Fcases-in-us.html#vaccinations_vacc-people-fully-percent-total)
+o United States COVID-19 Cases, Deaths, and Laboratory Testing (NAATs) by State,Territory, and Jurisdiction [link](https://covid.cdc.gov/covid-data-tracker/#cases_totalcases)
 ## Tools
 Included in the respository are
 - Scripts used to analyze and wrangle the data
