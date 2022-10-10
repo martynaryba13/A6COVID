@@ -1,4 +1,4 @@
-#A6COVID 
+# A6COVID 
 Achievement 6 COVID-19 Prevalence in the United States
 ## Objective
 COVID-19 is a disease caused by a virus and was discovered in December 2019 in Wuhan, China. The pandemic has affected people across the world in many ways for the past 2.5 years. In this analysis, we will explore the spread of COVID-19 across the United States as well as the effect of vaccines.
